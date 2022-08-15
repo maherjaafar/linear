@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.5.18
+
+### Patch Changes
+
+- dec5d48: fix: improve import cli success message
+- 5e25484: chore(import): rename Clubhouse -> Shortcut
+- Updated dependencies [2c682eb]
+- Updated dependencies [2457fd0]
+  - @linear/sdk@1.23.0
+
 ## 1.5.17
 
 ### Patch Changes
